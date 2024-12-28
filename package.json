@@ -1,0 +1,15 @@
+{
+  "name": "youtproj",
+  "version": "1.0.0",
+  "description": "Backend for YouTube clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Saurabh",
+  "license": "ISC"
+}
